@@ -1,0 +1,5 @@
+.env
+venv/
+# Ignore environment variable files
+*.env
+.env.*
